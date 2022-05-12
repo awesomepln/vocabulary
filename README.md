@@ -1,16 +1,16 @@
 # vocabulary
-Learn english in terminal
-I believe you will expand your vocabulary <3
+Learn english in terminal <br />
+I believe you will expand your vocabulary <3 <br />
 
-INSTALL:
-git clone https://github.com/awesomepln/vocabulary
-cd vocabulary 
-chmod +x vocabulary.sh
-./vocabulary.sh 
+INSTALL: <br />
+git clone https://github.com/awesomepln/vocabulary <br />
+cd vocabulary <br />
+chmod +x vocabulary.sh <br />
+./vocabulary.sh <br />
 
-USAGE: 
-Check your vocavulary:
-cat vocabularylist.txt
+USAGE: <br />
+Check your vocavulary: <br />
+cat vocabularylist.txt <br />
 
-TroubleShooting:
-If you have problem with saving words, change path to "vocabularylist.txt" file
+TroubleShooting: <br />
+If you have problem with saving words, change path to "vocabularylist.txt" file <br />
