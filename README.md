@@ -9,6 +9,10 @@ chmod +x vocabulary.sh <br />
 ./vocabulary.sh <br />
 
 USAGE: <br />
+bash vocabulary.sh <br />
+or <br />
+./vocabulary.sh <br />
+
 Check your vocavulary: <br />
 cat vocabularylist.txt <br />
 
