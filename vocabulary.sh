@@ -1,7 +1,7 @@
 #!/bin/bash
 username=$(whoami)
 echo "Hi, $username"
-#1
+
 read -p "Do you want to write the word (y/n)?" choice
 case "$choice" in 
   y|Y ) echo "Write your word" 
@@ -13,7 +13,6 @@ case "$choice" in
   * ) echo "invalid";;
 esac
 
-###
 addnew() {
 	echo "Add your new word"
 	read word
